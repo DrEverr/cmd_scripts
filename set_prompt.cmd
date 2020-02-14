@@ -1,0 +1,2 @@
+@ECHO OFF
+PROMPT $P$S$$DrEverr$G
